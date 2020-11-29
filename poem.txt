@@ -1,4 +1,4 @@
 Roses are red 
 Violets are blue
 Java is cool
-and so are you
+And so are you
