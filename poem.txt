@@ -1,4 +1,4 @@
 Roses are red 
 Violets are blue
-Java is cool
+Java and python are cool
 And so are you
